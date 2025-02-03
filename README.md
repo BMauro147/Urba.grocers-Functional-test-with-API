@@ -1,4 +1,4 @@
-# Urba.grocers-Functional-test-with-API
+# Urban.Grocers-Functional-Test-With-API
 En este proyecto se realizaron pruebas funcionales y de integración sobre la API **Urban.grocers**. Se verificó que los endpoints respondieran correctamente a las solicitudes usando **Postman** y cubriendo los métodos HTTP: **GET**, **POST**, **PUT** y **DELETE**.
 
 ## Objetivo de las Pruebas
